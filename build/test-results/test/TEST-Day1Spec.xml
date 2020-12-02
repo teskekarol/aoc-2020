@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Day1Spec" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-12-01T05:39:57" hostname="POLPC04701" time="0.842">
-  <properties/>
-  <testcase name="should solve part one" classname="Day1Spec" time="0.781"/>
-  <testcase name="should solve part two" classname="Day1Spec" time="0.059"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
