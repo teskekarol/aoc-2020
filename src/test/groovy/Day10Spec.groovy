@@ -10,7 +10,7 @@ class Day10Spec extends Specification {
         def result = day10.partOne()
 
         then:
-        result == ""
+        result == "220"
 
     }
 
@@ -19,6 +19,6 @@ class Day10Spec extends Specification {
         def result = day10.partTwo()
 
         then:
-        result == ""
+        result == "8"
     }
 }
