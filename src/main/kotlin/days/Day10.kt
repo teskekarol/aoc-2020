@@ -27,24 +27,23 @@ class Day10 : Day(10) {
         return (diffs.getOrDefault(1, 0) * (diffs.getOrDefault(3, 0) + 1)).toString()
     }
 
-    override fun partTwo(): String = countPaths(inputAsListOfInt.toSet())
+    override fun partTwo(): String = getAllAdaptersVariants(inputAsListOfInt.toSet())
         .toString()
 
-    private val knownPaths: MutableMap<Int, Long> = mutableMapOf()
-
-    private fun countPaths(adapters: Set<Int>): Long {
+    private val paths: MutableMap<Int, Long> = mutableMapOf()
+    private fun getAllAdaptersVariants(adapters: Set<Int>): Long {
         return countPathsRecursively(adapters, 0, adapters.maxOrNull()!!)
     }
 
     private fun countPathsRecursively(adapters: Set<Int>, currentAdapter: Int, maxAdapter: Int): Long {
-        // No more paths
-        if (currentAdapter == maxAdapter) return 1
+        if (currentAdapter == maxAdapter) {
+            return 1
+        }
 
-        // memoize the path-count for the current adapter
-        knownPaths.getOrPut(currentAdapter) {
+        paths.getOrPut(currentAdapter) {
             countPathsForAdapter(adapters, currentAdapter, maxAdapter)
         }
-        return knownPaths[currentAdapter]!!
+        return paths[currentAdapter]!!
     }
 
     private fun countPathsForAdapter(adapters: Set<Int>, adapter: Int, maxAdapter: Int): Long =
