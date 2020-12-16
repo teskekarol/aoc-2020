@@ -1,0 +1,210 @@
+"possible for 0 is departure date
+#possible for 0 is arrival station
+possible for 0 is class
+possible for 0 is price
+possible for 0 is route
+possible for 0 is row
+possible for 0 is type
+possible for 0 is zone
+&possible for 1 is departure location
+%possible for 1 is departure station
+&possible for 1 is departure platform
+#possible for 1 is departure track
+"possible for 1 is departure date
+"possible for 1 is departure time
+#possible for 1 is arrival station
+$possible for 1 is arrival platform
+!possible for 1 is arrival track
+possible for 1 is class
+possible for 1 is price
+possible for 1 is route
+possible for 1 is row
+possible for 1 is type
+possible for 1 is zone
+#possible for 2 is arrival station
+possible for 2 is class
+possible for 2 is type
+possible for 2 is zone
+&possible for 3 is departure location
+%possible for 3 is departure station
+&possible for 3 is departure platform
+#possible for 3 is departure track
+"possible for 3 is departure date
+"possible for 3 is departure time
+$possible for 3 is arrival location
+#possible for 3 is arrival station
+$possible for 3 is arrival platform
+!possible for 3 is arrival track
+possible for 3 is class
+possible for 3 is duration
+possible for 3 is price
+possible for 3 is route
+possible for 3 is row
+possible for 3 is type
+possible for 3 is zone
+&possible for 4 is departure location
+%possible for 4 is departure station
+&possible for 4 is departure platform
+#possible for 4 is departure track
+"possible for 4 is departure date
+"possible for 4 is departure time
+#possible for 4 is arrival station
+$possible for 4 is arrival platform
+!possible for 4 is arrival track
+possible for 4 is class
+possible for 4 is duration
+possible for 4 is price
+possible for 4 is route
+possible for 4 is row
+possible for 4 is type
+possible for 4 is zone
+possible for 5 is class
+possible for 5 is type
+possible for 5 is zone
+#possible for 6 is arrival station
+possible for 6 is class
+possible for 6 is price
+possible for 6 is route
+possible for 6 is row
+possible for 6 is type
+possible for 6 is zone
+possible for 7 is type
+possible for 7 is zone
+&possible for 8 is departure location
+%possible for 8 is departure station
+#possible for 8 is departure track
+"possible for 8 is departure date
+"possible for 8 is departure time
+#possible for 8 is arrival station
+possible for 8 is class
+possible for 8 is price
+possible for 8 is route
+possible for 8 is row
+possible for 8 is type
+possible for 8 is zone
+&possible for 9 is departure location
+%possible for 9 is departure station
+&possible for 9 is departure platform
+#possible for 9 is departure track
+"possible for 9 is departure date
+"possible for 9 is departure time
+#possible for 9 is arrival station
+$possible for 9 is arrival platform
+possible for 9 is class
+possible for 9 is price
+possible for 9 is route
+possible for 9 is row
+possible for 9 is type
+possible for 9 is zone
+'possible for 10 is departure location
+&possible for 10 is departure station
+'possible for 10 is departure platform
+$possible for 10 is departure track
+#possible for 10 is departure date
+#possible for 10 is departure time
+$possible for 10 is arrival station
+possible for 10 is class
+possible for 10 is price
+possible for 10 is route
+possible for 10 is row
+possible for 10 is type
+possible for 10 is zone
+'possible for 11 is departure location
+$possible for 11 is departure track
+#possible for 11 is departure date
+#possible for 11 is departure time
+$possible for 11 is arrival station
+possible for 11 is class
+possible for 11 is price
+possible for 11 is route
+possible for 11 is row
+possible for 11 is type
+possible for 11 is zone
+'possible for 12 is departure location
+&possible for 12 is departure station
+'possible for 12 is departure platform
+$possible for 12 is departure track
+#possible for 12 is departure date
+#possible for 12 is departure time
+%possible for 12 is arrival location
+$possible for 12 is arrival station
+%possible for 12 is arrival platform
+"possible for 12 is arrival track
+possible for 12 is class
+possible for 12 is duration
+possible for 12 is price
+possible for 12 is route
+possible for 12 is row
+possible for 12 is seat
+possible for 12 is type
+possible for 12 is wagon
+possible for 12 is zone
+'possible for 13 is departure location
+&possible for 13 is departure station
+'possible for 13 is departure platform
+$possible for 13 is departure track
+#possible for 13 is departure date
+#possible for 13 is departure time
+%possible for 13 is arrival location
+$possible for 13 is arrival station
+%possible for 13 is arrival platform
+"possible for 13 is arrival track
+possible for 13 is class
+possible for 13 is duration
+possible for 13 is price
+possible for 13 is route
+possible for 13 is row
+possible for 13 is type
+possible for 13 is wagon
+possible for 13 is zone
+$possible for 14 is arrival station
+possible for 14 is class
+possible for 14 is price
+possible for 14 is row
+possible for 14 is type
+possible for 14 is zone
+$possible for 15 is arrival station
+possible for 15 is class
+possible for 15 is row
+possible for 15 is type
+possible for 15 is zone
+possible for 16 is type
+'possible for 17 is departure location
+#possible for 17 is departure date
+#possible for 17 is departure time
+$possible for 17 is arrival station
+possible for 17 is class
+possible for 17 is price
+possible for 17 is route
+possible for 17 is row
+possible for 17 is type
+possible for 17 is zone
+'possible for 18 is departure location
+&possible for 18 is departure station
+'possible for 18 is departure platform
+$possible for 18 is departure track
+#possible for 18 is departure date
+#possible for 18 is departure time
+%possible for 18 is arrival location
+$possible for 18 is arrival station
+%possible for 18 is arrival platform
+"possible for 18 is arrival track
+possible for 18 is class
+possible for 18 is duration
+possible for 18 is price
+possible for 18 is route
+possible for 18 is row
+possible for 18 is seat
+possible for 18 is train
+possible for 18 is type
+possible for 18 is wagon
+possible for 18 is zone
+#possible for 19 is departure date
+#possible for 19 is departure time
+$possible for 19 is arrival station
+possible for 19 is class
+possible for 19 is price
+possible for 19 is route
+possible for 19 is row
+possible for 19 is type
+possible for 19 is zone
